@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Research"
-subtitle = "If you can't access a paywalled article, feel free to email me. I can almost always share a pre-print version.<br>[Publications](#publications)<br>[Working papers](#working)"
+title = "Working papers"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -75,64 +75,6 @@ subtitle = "If you can't access a paywalled article, feel free to email me. I ca
  css_class = ""
 +++
 
-## Publications
-### {#nica-dynamics}
-* [Heterogeneous impact dynamics of a rural business development program in Nicaragua](https://www.sciencedirect.com/science/article/pii/S0304387818304851)
-with Michael Carter and Patricia Toledo<br>
-_Journal of Development Economics_, 138:77-98, May 2019 <br>
-  - [NBER WP version (No. 22628)](https://www.nber.org/papers/w22628.pdf)
-    <details><summary>Abstract</summary>
-    We study the impacts of a rural development program designed to boost   the income of the small-farm sector in Nicaragua. Exploiting the random   assignment of treatment, we find statistically and economically   significant impacts on gross farm income and investment in productive   farm capital. Using continuous treatment estimation techniques, we   examine the evolution of program impacts over time and find that the   estimated income increase persists and that the impacts on productive   capital stock continue to rise even after the program concluded.   Additionally, panel quantile methods reveal striking heterogeneity of   program impacts on both income and investment. We show that this   heterogeneity is not random and that there appear to exist low-  performing household types who benefit little from the program, whereas   high-performing (upper quantile) households benefit more substantially.   Analysis using generalized random forests, a machine learning algorithm,   points toward greater program impacts for households who were   disadvantaged at baseline. Even after controlling for this source of   heterogeneity, we find large and persistent differences in how much   different types of households benefited from the program. While the   benefit-cost ratio of the program is on average positive, the impact   heterogeneity suggests that business development programs aiming to   engage farm households as agricultural entrepreneurs have limitations as   instruments to eliminate rural poverty.
-    </details>
-{{< figure library="true" src="nica_capital_small.png" title="Heterogeneity matters" lightbox="false" width="300px" >}}
-
-### {#money-matters}
-* [Money matters: the role of income and yields in agricultural technology adoption](https://doi.org/10.1093/ajae/aay050) with Jeffrey D. Michler, Simone Verkaart, and Kai Mausch <br>
-_American Journal of Agricultural Economics_, July 2018.
-  * [Ungated WP version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174824)
-  * [Replication data](/files/AJAE-data.zip)
-    <details><summary>Abstract</summary>
-    Despite the growing attention to technology adoption in the economics literature, knowledge gaps remain regarding why some valuable technologies are rapidly adopted, while others are not. This paper contributes to our understanding of agricultural technology adoption by showing that a focus on yield gains may, in some contexts, be misguided. We study a technology in Ethiopia that has no impact on yields, but that has nonetheless been widely adopted. Using three waves of panel data, we estimate a correlated random coefficient model and calculate the returns to improved chickpea in terms of yields, costs, and profits. We find that farmers’ comparative advantage does not play a significant role in their adoption decisions and hypothesize that this is due to the overall high economic returns to adoption, despite the limited yield impacts of the technology. Our results suggest economic measures of returns may be more relevant than increases in yields in explaining technology adoption decisions.
-    </details>
-{{< figure library="true" src="chickpea_returns_small.jpg" title="Returns by adoption groups" lightbox="false" width="300px" >}}
-
-### {#natural-disasters}
-* [Natural disasters, social protection, and risk perception](https://www.sciencedirect.com/science/article/pii/S0305750X17303893)
-with Philip Brown, Adam J. Daigneault, and Wenbo Zou <br>
-_World Development_, 104:310–325, April 2018
-  * [Ungated WP version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086868)
-    <details><summary>Abstract</summary>
-    Natural disasters give rise to loss and damage and may affect subjective expectations about the prevalence and severity of future disasters. These expectations might then in turn shape individuals’ investment behaviors, potentially affecting their incomes in subsequent years. As part of an emerging literature on endogenous preferences, economists have begun studying the consequences that exposure to natural disasters have on risk attitudes, perceptions, and behavior. We add to this field by studying the impact of being struck by the December 2012 Cyclone Evan on Fijian households’ risk attitudes and subjective expectations about the likelihood and severity of natural disasters over the next 20 years. The randomness of the cyclone’s path allows us to estimate the causal effects of exposure on both risk attitudes and risk perceptions. Our results show that being struck by an extreme event substantially changes individuals’ risk perceptions as well as their beliefs about the frequency and magnitude of future shocks. However, we find sharply distinct results for the two ethnicities in our sample, indigenous Fijians and Indo-Fijians; the impact of the natural disaster aligns with previous results in the literature on risk attitudes and risk perceptions for Indo-Fijians, whereas they have little to no impact on those same measures for indigenous Fijians.
-    </details>
-{{< figure library="true" src="violin_plot_ethnicity_evan.png" title="Beliefs about losses" lightbox="false" width="300px" >}}
-{{< figure library="true" src="Evan_Dec_16-17_IR_Animation.gif" title="Cyclone Evan" lightbox="false" width="300px" >}}
-
-### {#stata-paper}
-* [Fitting and interpreting correlated random coefficient (CRC) models using Stata](https://www.stata-journal.com/article.html?article=st0517)
-with Oscar Barriga Cabanillas, Jeffrey D. Michler and Aleksandr Michuda
-_Stata Journal_, 18(1):159–173, 2018
-  * The `-randcoef-` command estimates follows [Suri (2011)](http://onlinelibrary.wiley.com/doi/10.3982/ECTA7749/abstract) to estimate correlated random effects (CRE) and correlated random coefficient (CRC) models
-  * [Blog post](https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models)
-
-
-
-### {#Nica-semipar}
-* [Identifying the impact dynamics of a small farmer development scheme in Nicaragua](https://doi.org/10.1093/ajae/aat042)
-with Michael Carter and Patricia Toledo<br>
-_American Journal of Agricultural Economics (Papers and Proceedings)_, 95(5):1359–1365, July 2013
-
-* [Do differences in attitudes explain differences in national climate change policies?](http://www.sciencedirect.com/science/article/pii/S0921800907003588)
-with Thomas H. Tietenberg <br>
-_Ecological Economics_, 65(2):315–324, 2008
-
-* [Rational foolishness would destroy a public service broadcasting system](http://www.tandfonline.com/doi/full/10.1080/08997760802544772#.VF_H1_mXCq4)<br>
-with Sune Tjernström<br>
-_Journal of Media Economics_, 21(4):258–263, 2008.
-
-<br>
-<br>
-
-## Working papers {#working}
 ### {#mahindi-master}
 * [Learning by (Virtually) Doing: Experimentation and Belief Updating in Smallholder Agriculture](files/TLHC2020.pdf)
 _with Travis Lybbert, Rachel Hernández Frattarola, and Juan Sebastian Correa_ <br>
