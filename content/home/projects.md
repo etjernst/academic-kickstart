@@ -77,8 +77,10 @@ subtitle = ""
 
 ### {#mahindi-master}
 * [Learning by (Virtually) Doing: Experimentation and Belief Updating in Smallholder Agriculture](files/TLHC2020.pdf)
+<div><img src="img/mm_screenshot.png" style="float:right;width:42px;height:42px;">
+</div>
 _with Travis Lybbert, Rachel Hernández Frattarola, and Juan Sebastian Correa_ <br>
-Revised and resubmitted :crossed_fingers:
+Accepted! :grinning:
   <details><summary>Abstract</summary>
   In much of sub-Saharan Africa, soil quality heterogeneity hampers farmer   learning about the returns to different inputs. This can partly explain   why we observe
   limited adoption of improved inputs in the region. We study how Kenyan   farmers respond to an interactive app that enables them to discover   agricultural input returns on a virtual plot that is calibrated to   resemble their own. Farmers update both their beliefs and behaviors after   engaging with the virtual learning app. Additionally, farmers revise their   beliefs
@@ -89,6 +91,8 @@ Revised and resubmitted :crossed_fingers:
 * [Can Smallholder Extension Transform African Agriculture?](https://www.nber.org/papers/w26054)
 _with Joshua Deutschmann, Maya Duru and Kim Siegal_ <br>
 NBER Working Paper No. 26054
+<br>
+Submitted :crossed_fingers:
   <details><summary>Abstract</summary>
   Agricultural productivity in Sub-Saharan Africa lags behind all
   other regions of the world. Decades of investment in agricultural research and extension have yielded more
@@ -103,6 +107,22 @@ NBER Working Paper No. 26054
   while treatment effects on total output and profit impacts are slightly
   attenuated at the top end of the distribution.
   </details>
+
+
+### {#filling-niche}
+* [Filling a Niche: the Maize Productivity Impacts of
+Adaptive Breeding by a Local Seed Company in Kenya](files/BCLMNT_2020.pdf)
+_with Samuel Bird, Michael Carter, Travis Lybbert, Mary Mathenge and Tim Njagi_ <br>
+Submitted
+<details><summary>Abstract</summary>
+  This paper explores the idea that competitive seed systems may underserve
+  farmers in small agro-ecological niches, leaving those farmers less productive and poorer than they need be.
+  We develop a theoretical model of the confluence of demand and supply factors that can result in such an equilibrium.
+  We then empirically study the disruption of the maize seed market in Western Kenya that took place when public sector foundation breeding and social impact investment capital together allowed a local seed company to expand and target the area with adaptively-bred maize varieties.
+  A three-year RCT reveals that these seed varieties increased farmer yields and revenues, both for better-resourced farmers (who used non-adapted hybrids
+  and fertilizer prior to the intervention) as well less well-resourced farmers (who did not).
+  This theoretical and empirical evidence suggests news ways for thinking about seeds systems in areas typified by high levels of agro-ecological heterogeneity.
+</details>
 
 ### {#media-motivation}
 * [Media and Motivation: the Effect of
@@ -150,10 +170,6 @@ Ghanem, Travis Lybbert, Jeffrey D. Michler, and Aleksander Michuda_
 _with Jared Gars_ <br>
 draft available upon request
 
-### {#filling-niche}
-* Filling a Niche: the Impacts of a Local Seed Company on Maize Productivity in Kenya
-_with Samuel Bird, Michael Carter, Travis Lybbert, Mary Mathenge and Tim Njagi_ <br>
-draft available upon request
 
 <br>
 <br>
