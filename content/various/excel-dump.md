@@ -66,4 +66,4 @@ Other columns that can be useful:
 
 This is an example from an excellent Excel dump (by Ayal Weiner-Kaplow) on air pollution and health, designed to inform a study on the effects of fine particulate matter on cognition in Kenya
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX0cZ8bX76nBnzzyS7EOPGBZ1HxFaWC8n5Imc-FUd0_nnYZUHMSlY-D4_c0sK6JaZak_3TlAgz4bHm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width:95%"" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX0cZ8bX76nBnzzyS7EOPGBZ1HxFaWC8n5Imc-FUd0_nnYZUHMSlY-D4_c0sK6JaZak_3TlAgz4bHm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
