@@ -1,7 +1,6 @@
 ---
 title: Excel dump
 draft: false
-date: 2020-11-1
 share: false
 commentable: false
 editable: false
