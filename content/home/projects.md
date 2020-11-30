@@ -76,11 +76,15 @@ subtitle = ""
 +++
 
 ### {#mahindi-master}
+
+
 * [Learning by (Virtually) Doing: Experimentation and Belief Updating in Smallholder Agriculture](files/TLHC2020.pdf)
-<div><img src="img/mm_screenshot.png" style="float:right;width:42px;height:42px;">
-</div>
 _with Travis Lybbert, Rachel Hernández Frattarola, and Juan Sebastian Correa_ <br>
-Accepted! :grinning:
+Accepted!
+
+  <div><img src="media/mm_screenshot.png" style="float;width:300px;">
+  </div>
+
   <details><summary>Abstract</summary>
   In much of sub-Saharan Africa, soil quality heterogeneity hampers farmer   learning about the returns to different inputs. This can partly explain   why we observe
   limited adoption of improved inputs in the region. We study how Kenyan   farmers respond to an interactive app that enables them to discover   agricultural input returns on a virtual plot that is calibrated to   resemble their own. Farmers update both their beliefs and behaviors after   engaging with the virtual learning app. Additionally, farmers revise their   beliefs
@@ -113,8 +117,9 @@ Submitted :crossed_fingers:
 * [Filling a Niche: the Maize Productivity Impacts of
 Adaptive Breeding by a Local Seed Company in Kenya](files/BCLMNT_2020.pdf)
 _with Samuel Bird, Michael Carter, Travis Lybbert, Mary Mathenge and Tim Njagi_ <br>
-Submitted
-<details><summary>Abstract</summary>
+Submitted :crossed_fingers:
+
+  <details><summary>Abstract</summary>
   This paper explores the idea that competitive seed systems may underserve
   farmers in small agro-ecological niches, leaving those farmers less productive and poorer than they need be.
   We develop a theoretical model of the confluence of demand and supply factors that can result in such an equilibrium.
@@ -122,7 +127,7 @@ Submitted
   A three-year RCT reveals that these seed varieties increased farmer yields and revenues, both for better-resourced farmers (who used non-adapted hybrids
   and fertilizer prior to the intervention) as well less well-resourced farmers (who did not).
   This theoretical and empirical evidence suggests news ways for thinking about seeds systems in areas typified by high levels of agro-ecological heterogeneity.
-</details>
+  </details>
 
 ### {#media-motivation}
 * [Media and Motivation: the Effect of
@@ -205,5 +210,5 @@ _with Michael Carter and Travis Lybbert_
 _with Rachel Hernández  Frattarola_
 
 ### {#migration}
-* Selection and Heterogeneity in the Returns to Migratio
-_with Eduardo Cenci and Marieke Kleemans_
+* Selection and Heterogeneity in the Returns to Migration
+_with [Eduardo Cenci](https://sites.google.com/wisc.edu/eduardocenci/) and Marieke Kleemans_
