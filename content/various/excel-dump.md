@@ -1,10 +1,11 @@
 ---
 title: Excel dump
 draft: false
+date: false
 share: false
 commentable: false
 editable: false
-subtitle: My adaptation of Raul Pacheco's fabulous explanation of the "Conceptual Synthesis Excel Dump"
+subtitle: My adaptation of Raul Pacheco's fabulous explanation of the "Conceptual Synthesis Excel Dump" + some tips on using google scholar effectively
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,9 +17,9 @@ header:
   caption: ""
   image: ""
 ---
-## The Excel dump
+## 1) Excel dump
 
-Raul Pacheco has tons of amazing resources for how to conduct a literature review. I especially like the [Excel dump](http://www.raulpacheco.org/2016/06/synthesizing-different-bodies-of-work-in-your-literature-review-the-conceptual-synthesis-excel-dump-technique/), but do check out his website for [more literature review resources](http://www.raulpacheco.org/resources/literature-reviews/).
+Raul Pacheco has tons of amazing resources for how to conduct a literature review. I especially like the [Excel dump](http://www.raulpacheco.org/2016/06/synthesizing-different-bodies-of-work-in-your-literature-review-the-conceptual-synthesis-excel-dump-technique/), but check out his website for [more literature review resources](http://www.raulpacheco.org/resources/literature-reviews/).
 
 
 The idea behind the Excel dump is to get an overview of the literature, and to have a handy reference when you start writing up a literature review.
@@ -67,3 +68,10 @@ Other columns that can be useful:
 This is an example from an excellent Excel dump (by Ayal Weiner-Kaplow) on air pollution and health, designed to inform a study on the effects of fine particulate matter on cognition in Kenya
 
 <iframe style="width:95%"" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX0cZ8bX76nBnzzyS7EOPGBZ1HxFaWC8n5Imc-FUd0_nnYZUHMSlY-D4_c0sK6JaZak_3TlAgz4bHm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+## 2) Google scholar
+
+Google Scholar is a great resource, but I find that many students don't know how to use it effectively. Here are some slides on how to get the most out of it:
+
+<iframe src="https://slides.com/emiliatjernstrom/finding-sources/embed" width="95% scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
