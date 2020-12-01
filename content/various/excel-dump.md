@@ -27,7 +27,7 @@ The idea behind the Excel dump is to get an overview of the literature, and to h
 ### Columns
 Depending on the topic of the literature review, it can make sense to add additional columns, but the basic columns that I would always include are
 
-| Citation | Year | Research question | Main outcome variable |
+| <div style="width:50px">Citation</div> Citation | Year | Research question | Main outcome variable |
 | -------- | ---- | ----------------- | --------------------- |
 | | Include this in addition to the full citation so that you can sort on publication year | What is the **main** research question, in a sentence? [(Examples)](#research-question-examples) | |
 
