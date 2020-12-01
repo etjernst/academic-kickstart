@@ -28,16 +28,16 @@ The idea behind the Excel dump is to get an overview of the literature, and to h
 Depending on the topic of the literature review, it can make sense to add additional columns, but the basic columns that I would always include are
 
 | Citation | Year | Research question | Main outcome variable |
-| --- | --- | --- | --- |
+| -------- | ---- | ----------------- | --------------------- |
 | | Include this in addition to the full citation so that you can sort on publication year | What is the **main** research question, in a sentence? [(Examples)](#research-question-examples) | |
 
 
 | Method / identification | Data source | Sampling method | Sample & population |
-| --- | --- | --- | --- |
+| --------------          | ----------- | --------------- | ------------ |
 In applied microeconomics studies, this is typically synonymous with "econometric method." Common examples include panel data, instrumental variables, natural experiment, regression discontinuity, etc.?| | | Most data are a sample of a larger population; knowing who this population is and how they were drawn (sampling method) can help you assess how representative the sample is of that population |
 
 | Key results | Limitations | Comments | Quotes | Related articles |
-| --- | --- | --- | --- | --- |
+| --------    | ----------- | -------- | ------ | --------- |
 | | | | Quotes is not commonly used in economics, but if there is a killer phrase in the paper it can be worth writing it down (together with the page it's located on) | Related articles (to help you keep track of which references and citations are linked to one another---how to do this is an art, not a science) |
 
 #### Research question examples
