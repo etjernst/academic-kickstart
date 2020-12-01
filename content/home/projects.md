@@ -8,6 +8,10 @@ weight = 66  # Order that this section will appear.
 title = "Working papers"
 subtitle = ""
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "100px", "50px", "50px"]
+
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -174,41 +178,3 @@ Ghanem, Travis Lybbert, Jeffrey D. Michler, and Aleksander Michuda_
 * Seeds of Uncertainty: Information, Subjective Expectations, and Technology Adoption
 _with Jared Gars_ <br>
 draft available upon request
-
-
-<br>
-<br>
-
-## Work in progress
-
-### {#dukas}
-* Market-Level Effects of Competition in Agricultural Input Markets: Prices, Quality, and Mechanisms<br>
-_with Maya Duru and Laura Schechter_
-
-### {#dukas}
-
-* When Intentions Matter---Identifying the Prevalence
-and Source of Poor-quality Inputs in Kenya <br>
-_with Jose Clavijo and Travis Lybbert_
-
-### {#bundling}
-* Nonlinear Pricing Complexity and Consumer Behavior
-_with Joshua Deutschmann and Jeff Michler_
-
-### {#arrested-development}
-* Arrested Development: the Inefficiencies
-of Electoral Cycles in Infrastructure Projects
-_with Evan Morier_
-
-### {#dirt-on-dirt}
-* The Dirt on Dirt: Soil Characteristics
-and Variable Fertilizer Returns in Kenyan Maize Systems
-_with Michael Carter and Travis Lybbert_
-
-### {#disadoption}
-* Income Volatility and Technology Choice
-_with Rachel Hernández  Frattarola_
-
-### {#migration}
-* Selection and Heterogeneity in the Returns to Migration
-_with [Eduardo Cenci](https://sites.google.com/wisc.edu/eduardocenci/) and Marieke Kleemans_

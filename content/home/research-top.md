@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "300px", "100px", "300px"]
+  padding = ["100px", "200px", "100px", "200px"]
 
 [advanced]
  # Custom CSS.
@@ -51,6 +51,6 @@ subtitle = ""
 +++
 <br>
 
-* The Australian's 2020 [Special Report on Research](https://specialreports.theaustralian.com.au/1540291/11/) listed me as Field Leader in Development Economics!   :blush: 
+* The Australian's 2020 [Special Report on Research](https://specialreports.theaustralian.com.au/1540291/11/) listed me as Field Leader in Development Economics!   :blush:
 * My co-authored paper ["Money matters: the role of income and yields in agricultural technology adoption"](#money-matters) received the 2020 Outstanding AJAE article award!
 * NSF and PEDL have recently funded my joint project (with Laura Schechter and Maya Duru) "Market-Level Effects of Competition in Agricultural Input Markets: Prices, Quality, and Mechanisms"

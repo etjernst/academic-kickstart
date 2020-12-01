@@ -10,6 +10,10 @@ weight = 60  # Order that this section will appear.
 title = "Publications"
 subtitle = "If you can't access a paywalled article, feel free to email me. I can almost always share a pre-print version.<br>[Working papers](#projects)"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "100px", "50px", "50px"]
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
