@@ -27,36 +27,27 @@ The idea behind the Excel dump is to get an overview of the literature, and to h
 ### Columns
 Depending on the topic of the literature review, it can make sense to add additional columns, but the basic columns that I would always include are
 
-* Citation
-* Year
-> Include this in addition to the full citation so that you can sort on publication year
-* Research question
-> What is the **main** research question, in a sentence? Examples:
-> * What is the relationship between dust exposure in utero and child mortality in Western Africa?
-> * Does the pollution-infant mortality relationship differ between high- and low-income countries?
-* Main outcome variable
-* Method / identification
-> In applied microeconomics studies, this is typically synonymous with "econometric method." Common examples include panel data, instrumental variables, natural experiment, regression discontinuity, etc.?
-* Data source
-* Sampling method
-* Sample population
-> Most data are a sample of a larger population; knowing who this population is and how they were drawn (sampling method) can help you assess how representative the sample is of that population
-* Key results
-* Limitations
-* Comments
-* Quotes
-> This is not very common in economics, but if there is a killer phrase in the paper it can be worth writing it down (together with the page it's located on)
+| Citation | Year | Research question | Main outcome variable |
+| --- | --- | --- | --- |
+| | Include this in addition to the full citation so that you can sort on publication year | What is the **main** research question, in a sentence? [(Examples)](#research-question-examples) | |
 
-* Related articles (to help you keep track of which references and citations are linked to one another---how to do this is an art, not a science)
+
+| Method / identification | Data source | Sampling method | Sample & population |
+| --- | --- | --- | --- |
+In applied microeconomics studies, this is typically synonymous with "econometric method." Common examples include panel data, instrumental variables, natural experiment, regression discontinuity, etc.?| | | Most data are a sample of a larger population; knowing who this population is and how they were drawn (sampling method) can help you assess how representative the sample is of that population |
+
+| Key results | Limitations | Comments | Quotes | Related articles |
+| --- | --- | --- | --- | --- |
+| | | | Quotes is not commonly used in economics, but if there is a killer phrase in the paper it can be worth writing it down (together with the page it's located on) | Related articles (to help you keep track of which references and citations are linked to one another---how to do this is an art, not a science) |
+
+#### Research question examples
+* What is the relationship between dust exposure in utero and child mortality in Western Africa?
+*  Does the pollution-infant mortality relationship differ between high- and low-income countries?
 
 ### Other potentially useful columns
 Other columns that can be useful:
-* Location
-> Countries? Regions?
-
+* Location (e.g. list of countries / regions)
 * Time frame
-> When are the data from?
-
 * Measurement
 > If the outcome variable or the key "treatment" variable is measured very differently across studies, it can be worth categorizing studies on this dimension. For example, "air pollution" can be measured in many ways:
 > * Hourly $O_{3}$, $CO$, and $NO_{2}$ from California Air Resources Board monitor, 2.7 miles from study site.
@@ -65,7 +56,7 @@ Other columns that can be useful:
 
 ### Example: Air pollution and health (with focus on cognition)
 
-This is an example from an excellent Excel dump (by Ayal Weiner-Kaplow) on air pollution and health, designed to inform a study on the effects of fine particulate matter on cognition in Kenya
+This is an example from an [excellent Excel dump](https://docs.google.com/spreadsheets/d/1DXufsPnQLyOyV4YsJvJR2fTZji_4pN8Pts5qNax3ESU/edit?usp=sharing) (by Ayal Weiner-Kaplow) on air pollution and health, designed to inform a study on the effects of fine particulate matter on cognition in Kenya
 
 <iframe width="100%" height="500px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX0cZ8bX76nBnzzyS7EOPGBZ1HxFaWC8n5Imc-FUd0_nnYZUHMSlY-D4_c0sK6JaZak_3TlAgz4bHm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
